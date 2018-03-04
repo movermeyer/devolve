@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/simpleenergy/devolve.png)](https://travis-ci.org/simpleenergy/devolve)
 [![Documentation Status](https://readthedocs.org/projects/devolve-swagger/badge/?version=latest)](https://readthedocs.org/projects/devolve-swagger/?badge=latest)
-[![PyPi version](https://pypip.in/v/devolve/badge.png)](https://pypi.python.org/pypi/devolve)
-[![PyPi downloads](https://pypip.in/d/devolve/badge.png)](https://pypi.python.org/pypi/devolve)
+[![PyPi version](https://img.shields.io/pypi/v/devolve.svg)](https://pypi.python.org/pypi/devolve)
+[![PyPi downloads](https://img.shields.io/pypi/dm/devolve.svg)](https://pypi.python.org/pypi/devolve)
    
 
 [Documentation on ReadTheDocs](http://devolve.readthedocs.org/en/latest/)
